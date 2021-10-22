@@ -15,6 +15,7 @@
 - CNN, VGG ...
 
 ## How to use it?
+- 데이터셋 다운 ([LSWMD.pkl](https://www.kaggle.com/qingyi/wm811k-wafer-map))
 
 1. 데이터 정제
 2. Make Model
