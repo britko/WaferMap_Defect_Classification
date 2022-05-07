@@ -21,4 +21,4 @@
 2. Make model
 3. Training & Test/Validation
 4. Extract Model & Weight file (.h5)
-5. 다양한 테스트 케이스에서 실사용 가능성 검증
+5. 다양한 테스트 케이스에서 실사용 가능성 검증(Classification test)
